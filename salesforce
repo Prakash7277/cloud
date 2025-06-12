@@ -1,0 +1,13 @@
+create => custom object => Custom Object Information (Book)=>save
+Fields & Relationships => new => Fieldss like. sr num , author , price 
+
+setup => create => custom object =>  Custom Object Information (student)=>save
+Fields & Relationships => new => Fieldss like. sr no , name , price 
+
+setup => create => custom Tab => Object(Book) => next => next=> save
+create => custom Tab => Object(Student) => next => next=> save
+
+search (App Manager) =>new Lightning App => name: library => upload image => 
+next=> next => Navigation Items (book,student) next => system administator , standard user => save and finish
+
+search => App Launcher=> library => add data (book and student) 
