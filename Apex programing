@@ -1,0 +1,8 @@
+public class prakash {
+    public static void main(){
+        System.debug('hello word');
+    }
+}
+
+
+prakash main();
