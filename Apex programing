@@ -5,4 +5,4 @@ public class prakash {
 }
 
 
-prakash main();
+prakash.main();
