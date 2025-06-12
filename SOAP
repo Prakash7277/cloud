@@ -1,0 +1,14 @@
+  [WebMethod]
+    public int add(int a, int b)
+    {
+        return a + b;
+    }
+______________________________________________
+      int a, b, total;
+
+    
+        localhost.WebService s = new localhost.WebService();
+        a = Convert.ToInt32(TextBox1.Text);
+        b = Convert.ToInt32(TextBox2.Text);
+        total = s.add(a, b);
+        Response.Write("total add" + total);
